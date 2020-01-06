@@ -1,5 +1,6 @@
 # Restaurant-Delivery-Website
-Restaurant Delivery Website for a school project of website making
+Restaurant Delivery Website for a school project of website making. <br/>
+*To view the webiste in github.io click the name* <ins>***[Restaurant-Delivery-Website](https://gamingwithshaurya.github.io/Restaurant-Delivery-Website/)***</ins>
 
 ## To Start Exploring My Website
 1. Fork my repository if you want to do edits.
